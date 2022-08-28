@@ -35,3 +35,11 @@ Total 25 columns, with 1 target variable default.payment.next.month, and 23 expl
 
 Description gather from Kaggle Dataset > Overview & Discussion. But some column need to be rename and value need to be edit later.
 
+## This is my EDA on credit card default. Analyze by using Data Science OSEMN framework.
+
+- ( O )btain data: from Kaggle
+- ( S )crub data / clean data: rename column and modify value
+- ( E )xplore data: with Pandas DataFrame, Seaborn and Matplotlib visualization.
+- ( M )odelling: Logistic Regression with Scikit-Learn
+- i ( N ) terpret: summary of findings and suggestion
+
