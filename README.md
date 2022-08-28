@@ -43,3 +43,21 @@ Description gather from Kaggle Dataset > Overview & Discussion. But some column 
 - ( M )odelling: Logistic Regression with Scikit-Learn
 - i ( N ) terpret: summary of findings and suggestion
 
+# Final Words
+## This is what we found:
+- Credit behaviour, which shows their delay status, is the most important indicator for Default : When payment is delayed more than 2 months, the chances of default goes higher than 50%.
+- Demographic data have lower correlation to Default. However we can still look for some indication.
+  - Those who Divorce have higher chance of Default.
+  - Those with High School level have higher chance of Default.
+  - Those age range from 26 to 35, have lower Default rate.
+- Some unexplain data to take note, more description and explanation is needed
+  - Some client who Paid in Full in recent month, turn out to be default.
+  - Some client have a Negative Bill Amount. But still end up being default.
+  - some client Bill Amount is much higher than their Credit Limit provided.
+  
+## From the insights that we gained here, we are able to propose to management a few things:
+- To lower the risk of default, must be very cautious on clients payment behaviour.
+- More cautious on Divorce and High School level clients.
+- Marketing campaign should be aiming on clients' age from 26 to 35.
+- Communicate with data collection team : Ensure proper documentation of data description and Reduce data error, check the data collection and tracking system.
+
