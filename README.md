@@ -35,6 +35,13 @@ Total 25 columns, with 1 target variable default.payment.next.month, and 23 expl
 
 Description gather from Kaggle Dataset > Overview & Discussion. But some column need to be rename and value need to be edit later.
 
+# Inspiration
+
+Some ideas for exploration:
+
+1. How does the probability of default payment vary by categories of different demographic variables?
+2. Which variables are the strongest predictors of default payment?
+
 ## This is my EDA on credit card default. Analyze by using Data Science OSEMN framework.
 
 - ( O )btain data: from Kaggle
